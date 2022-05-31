@@ -1,0 +1,126 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Phase 2 Import Test</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63751</md:content-id>
+  <md:title>Phase 2 Import Test</md:title>
+  <md:abstract/>
+  <md:uuid>4150bb7d-1ca2-40da-85ff-95fd9ea1a5ae</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-idm252606880">XYZ InDesign Documentation</para>
+    <para id="import-auto-idm620989952"/>
+    <para id="import-auto-idm250022272">
+      <emphasis effect="bold">Installation</emphasis>
+    </para>
+    <para id="import-auto-idm228650176">Download Adobe® InDesign® from the Adobe website: </para>
+    <para id="import-auto-idm620638592">
+      <link url="http://www.adobe.com/products/indesign.html">http://www.adobe.com/products/indesign.html</link>
+    </para>
+    <para id="import-auto-idm246869456">Download and unzip the <emphasis effect="bold">XYZ Math.zip</emphasis> file containing:</para>
+    <para id="import-auto-idm620165936">XYZ InDesign Documentation.pdf</para>
+    <para id="import-auto-idm250013056">movemen</para>
+    <para id="import-auto-idm250626656">XYZ Math Fonts</para>
+    <para id="import-auto-idm232547776">Open the InDesign application folder, click on <emphasis effect="bold">Plug-Ins </emphasis></para>
+    <para id="import-auto-idm403702400">Move the <emphasis effect="bold">movemen</emphasis> folder into the <emphasis effect="bold">Plug-Ins</emphasis> folder</para>
+    <para id="import-auto-idm214511568"/>
+    <para id="import-auto-idm621003152">In the same InDesign application folder, click on <emphasis effect="bold">Fonts </emphasis></para>
+    <para id="import-auto-idm520952816">Open the <emphasis effect="bold">XYZ Math Fonts</emphasis> folder, then move <emphasis effect="bold">Type1</emphasis> subfolder into the InDesign <emphasis effect="bold">Fonts </emphasis>folder</para>
+    <para id="import-auto-idm232872304"/>
+    <para id="import-auto-idm619598048">Drag the <emphasis effect="bold">OpenType</emphasis> subfolder into the Font Book application to install fonts</para>
+    <para id="import-auto-idm252088464">Download the latest source files from the Google Drive containing math books</para>
+    <para id="import-auto-idm252030832">Download the latest release notes for your math book from DropBox</para>
+    <para id="import-auto-idm252734176">
+      <emphasis effect="bold">Making Changes</emphasis>
+    </para>
+    <list id="import-auto-idm232123680" list-type="enumerated" number-style="arabic">
+      <item>Create a copy of the latest source files to house the revised documents</item>
+      <item>Open the release notes to assess changes to be made in XYZ math books</item>
+      <item>Choose a book in source files, then open the <emphasis effect="bold">Working Files </emphasis>folder</item>
+      <item>Open the InDesign® .indb book file for that math title</item>
+    </list>
+    <para id="import-auto-idm249983392"/>
+    <list id="import-auto-idm204828896" list-type="enumerated" number-style="arabic">
+      <item>Double click a document to edit</item>
+    </list>
+    <para id="import-auto-idm249406544"/>
+    <list id="import-auto-idm215443248" list-type="enumerated" number-style="arabic">
+      <item>Make changes in the math documents as indicated by the release notes</item>
+      <item>Save the revised documents in the new source files folder</item>
+      <item>Using the drop-down menu in the upper right-hand corner, replace the original documents with the updated documents</item>
+    </list>
+    <para id="import-auto-idm249188448"/>
+    <list id="import-auto-idm633172944" list-type="enumerated" number-style="arabic">
+      <item>Preflight entire book to check for and fix errors in the documents</item>
+      <item>Repeat for all the math books</item>
+    </list>
+    <para id="import-auto-idm631396880">
+      <emphasis effect="bold">Exporting Books</emphasis>
+    </para>
+    <list id="import-auto-idm248960768" list-type="enumerated" number-style="arabic">
+      <item>Select all of the documents in the book file and export book to PDF</item>
+    </list>
+    <para id="import-auto-idm226477136"/>
+    <para id="import-auto-idm621152672">Review PDF for common mistakes including:</para>
+    <list id="import-auto-idm513742208" list-type="enumerated" number-style="arabic">
+      <item>Blurry images (Links to figure need to be updated)</item>
+    </list>
+    <para id="import-auto-idm205933120">
+      <emphasis effect="bold">Common Errata Fixes</emphasis>
+    </para>
+    <list id="import-auto-idm220362448" list-type="enumerated" number-style="arabic">
+      <item>For revising simple text errors, select the Type Tool  and insert the cursor where changes need to be made</item>
+      <item>For revising figures, right click on the figure and hover over “Edit With” to reveal the “Adobe Illustrator CC” option. Click on it to open Illustrator and begin modifying the figure.</item>
+    </list>
+    <para id="import-auto-idm238780032"/>
+    <list id="import-auto-idm250444416" list-type="enumerated" number-style="arabic">
+      <item>
+        <list id="import-auto-idm521416816" list-type="enumerated" number-style="arabic">
+          <item>Following changes in Illustrator, save the figure (Note: changes should be reflected in InDesign, no need to reinsert the figure).</item>
+        </list>
+      </item>
+      <item>For revising math….</item>
+    </list>
+    <para id="import-auto-idm520195520">
+      <emphasis effect="bold">Common InDesign Errors</emphasis>
+    </para>
+    <list id="import-auto-idm234437856" list-type="enumerated" number-style="arabic">
+      <item><emphasis effect="bold">Broken Links</emphasis>: Links to figures may require updating when figures in the “Links” folder are moved to an alternate location, including when opened on a new computer.<list id="import-auto-idm235891968" list-type="enumerated" number-style="arabic"><item>In the Links tab in InDesign, unlinked figures will display  </item><item>Select all unlinked figures, right click and select “Relink…” or click the link button at the bottom of the panel.</item><item>Find the folder containing the links, make sure “Search for missing links in this folder” is checked, then click open.</item></list></item>
+      <item><emphasis effect="bold">Overset Text</emphasis>: When inserting new bodies of text, content may be automatically pushed to the next pages to accommodate new material. This can result in overset text when the text is just before the Section Exercises. To preserve the page formatting, these pages are set and do not absorb material leaked from previous pages. A red plus sign in the corner of the text field will indicate the presence of overset text. To fix this, <list id="import-auto-idm249362192" list-type="enumerated" number-style="arabic"><item>Select the overset text page from the “Pages” tab in InDesign</item><item>Click “Create a new page” at the bottom of the Pages tab</item><item>Drag the page style (A,B,C,D…) that matches the overset text page to the newly created page</item><item>Click on the red plus sign in the corner of the overset text field</item></list></item>
+    </list>
+    <para id="import-auto-idm223242592"/>
+    <list id="import-auto-idm629861552" list-type="enumerated" number-style="arabic">
+      <item>Mouse over to the new page and click to place the text in the desired location</item>
+      <item>If a page is added, it will automatically account for page renumbering. To add a page: (Need to <list id="import-auto-idm619507568" list-type="enumerated" number-style="arabic"><item>Pages on the right hand panel</item><item>Click where you want to add a page after</item><item>Click Create new page icon (middle, bottom)</item></list></item>
+      <item>Beware when adding pages—might have to add another to keep chapter openers on odd pages!</item>
+      <item>Spring 2017<list id="import-auto-idm225989744" list-type="enumerated" number-style="arabic"><item>Source Files.zip</item><item>In Design Math Books</item><item>Installation Files Use Gaston’s Laptop, or install these things<list id="import-auto-idm228684816" list-type="enumerated" number-style="arabic"><item>Needs CS6, movemen, etc.. otherwise</item></list></item><item><emphasis effect="bold">Math books</emphasis><list id="import-auto-idm218152976" list-type="enumerated" number-style="arabic"><item>Select title</item><item>2016 is updated with 2017 edits but in the wrong file format</item><item><emphasis effect="underline">2017 is most updated</emphasis> in the correct format (work from this as it has CS6 which is optimum for these files—otherwise we’d have to pay on my computer or transfer the movemen math tools license)</item><item><emphasis effect="bold">Work from full book (first file, usually)</emphasis></item><item>.indb vs .indd book versus document</item><item>Pages, Layers, Links are Windows (menu option)</item><item>Figures<list id="import-auto-idm251349360" list-type="enumerated" number-style="arabic"><item>In Link (right had side) referring to content that links to this document (any external media)</item><item>Double click (hover to find out where it is linked)These links are very sensitive to where they are in the  directory. DO NOT MOVE THEM OR THEY WILL BREAK </item><item>Click relink middle menu icon</item><item>Upload the image throught the popup</item><item>Select open</item><item>It will replace it</item></list></item><item>Hyperlinks<list id="import-auto-idm619480688" list-type="enumerated" number-style="arabic"><item>Right hand menu</item><item>Click the link you want</item><item>Dropdown menu in top right menu of hyperlinks</item><item>Go to source, go to destination, hyperlink destination, etc.</item><item>OR, double click link to edit hyperlink<list id="import-auto-idm631988080" list-type="enumerated" number-style="arabic"><item>Change link to</item><item>Browse… select document you wnt to link to</item><item>Or change to URL (shared destination) etc.</item><item>Internal links are text anchor (to documents in the file)</item></list></item></list></item><item>When done: <list id="import-auto-idm218216672" list-type="enumerated" number-style="arabic"><item>Click book in right hand menu</item><item>Dropdown top right</item><item>Preflight Boook….<list id="import-auto-idm253754800" list-type="enumerated" number-style="arabic"><item>Scope: entire book (this checks missing fonts, broken links, overlapping text)</item><item>Preflight</item></list></item><item><emphasis effect="bold">Click blank area</emphasis></item><item>Click dropdown menu</item><item>Export book to PDF</item><item>Save Desktop<list id="import-auto-idm195845968" list-type="enumerated" number-style="arabic"><item> format interactive</item></list></item><item>Settings: <list id="import-auto-idm250070480" list-type="enumerated" number-style="arabic"><item><emphasis effect="bold">Default settings are fine</emphasis></item><item><emphasis effect="bold">Forms and media include all</emphasis></item><item><emphasis effect="bold">Compression: Lossless or Automatic</emphasis></item><item><emphasis effect="bold">Resolution: 300</emphasis></item><item><emphasis effect="bold">OK</emphasis></item></list></item></list></item></list></item></list></item>
+      <item>
+        <emphasis effect="bold">Paragraph Styles: </emphasis>
+        <list id="import-auto-idm222982064" list-type="enumerated" number-style="arabic">
+          <item>
+            <emphasis effect="bold">Let you add elements of the document IE: paragraph, how to, example, etc.</emphasis>
+          </item>
+        </list>
+      </item>
+      <item>
+        <emphasis effect="bold">Math Zone Tool Left hand menu for working with the math fonts</emphasis>
+        <list id="import-auto-idm490180400" list-type="enumerated" number-style="arabic">
+          <item>
+            <emphasis effect="bold">MATH ZONE MENU</emphasis>
+            <emphasis effect="bold">Recently Used Math Style</emphasis>
+            <list id="import-auto-idm235211104" list-type="enumerated" number-style="arabic">
+              <item>
+                <emphasis effect="bold">Desired text, arrow, text, arrow, etc until the math element is completed</emphasis>
+              </item>
+            </list>
+          </item>
+          <item>
+            <para id="import-auto-idm248922832">
+              <emphasis effect="bold"/>
+            </para>
+          </item>
+        </list>
+      </item>
+    </list>
+  </content>
+</document>
