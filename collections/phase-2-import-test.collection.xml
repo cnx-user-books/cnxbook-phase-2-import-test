@@ -1,29 +1,14 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="OpenStax Larissa">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col12129</md:content-id>
-  <md:title>Phase 2 Import Test</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>441b6159-f37a-41d3-93e0-18701074a2ad</md:uuid>
-<md:slug>phase-2-import-test</md:slug>
-</metadata>
-
+    <md:content-id>col12129</md:content-id>
+    <md:title>Phase 2 Import Test</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>441b6159-f37a-41d3-93e0-18701074a2ad</md:uuid>
+    <md:slug>phase-2-import-test</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m63751"/>
-        
-      
-    
+    <col:module document="m63751"/>
   </col:content>
 </col:collection>
